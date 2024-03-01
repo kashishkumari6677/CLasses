@@ -1,5 +1,6 @@
 //condition if-else
 // var age = prompt("Enter your age")
+//' = 'assign
 // //comparsion operator equal,less,greter,notequal
 // //                     ===,<,>,!=
 // //logical operator and &&,or ||
